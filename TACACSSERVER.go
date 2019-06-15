@@ -8,10 +8,6 @@ import (
 
 	"github.com/VividCortex/godaemon"
 
-	flag "github.com/spf13/pflag"
-
-	"github.com/spf13/viper"
-
 	"io/ioutil"
 
 	"log"
